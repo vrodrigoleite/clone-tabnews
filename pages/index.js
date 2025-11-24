@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Projeto do TabNews! Implementando Continuos Deployment</h1>
+    return <h1>Lelequinho, lelecão, eu te amo de montão!</h1>
 }
 
 export default Home;
