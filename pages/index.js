@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Projeto do TabNews!</h1>
+    return <h1>Projeto do TabNews! Implementando Continuos Deployment</h1>
 }
 
 export default Home;
